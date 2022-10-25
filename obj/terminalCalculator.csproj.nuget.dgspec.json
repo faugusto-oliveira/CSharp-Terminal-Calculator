@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/terminalCalculator/terminalCalculator.csproj": {}
+    "/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/terminalCalculator.csproj": {}
   },
   "projects": {
-    "/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/terminalCalculator/terminalCalculator.csproj": {
+    "/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/terminalCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/terminalCalculator/terminalCalculator.csproj",
+        "projectUniqueName": "/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/terminalCalculator.csproj",
         "projectName": "terminalCalculator",
-        "projectPath": "/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/terminalCalculator/terminalCalculator.csproj",
+        "projectPath": "/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/terminalCalculator.csproj",
         "packagesPath": "/Users/faugusto/.nuget/packages/",
-        "outputPath": "/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/terminalCalculator/obj/",
+        "outputPath": "/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/faugusto/.nuget/NuGet/NuGet.Config"
