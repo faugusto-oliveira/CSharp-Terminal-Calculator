@@ -1,0 +1,15 @@
+/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/bin/Debug/net6.0/terminalCalculator
+/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/bin/Debug/net6.0/terminalCalculator.deps.json
+/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/bin/Debug/net6.0/terminalCalculator.runtimeconfig.json
+/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/bin/Debug/net6.0/terminalCalculator.dll
+/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/bin/Debug/net6.0/terminalCalculator.pdb
+/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/obj/Debug/net6.0/terminalCalculator.csproj.AssemblyReference.cache
+/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/obj/Debug/net6.0/terminalCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/obj/Debug/net6.0/terminalCalculator.AssemblyInfoInputs.cache
+/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/obj/Debug/net6.0/terminalCalculator.AssemblyInfo.cs
+/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/obj/Debug/net6.0/terminalCalculator.csproj.CoreCompileInputs.cache
+/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/obj/Debug/net6.0/terminalCalculator.dll
+/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/obj/Debug/net6.0/refint/terminalCalculator.dll
+/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/obj/Debug/net6.0/terminalCalculator.pdb
+/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/obj/Debug/net6.0/terminalCalculator.genruntimeconfig.cache
+/Users/faugusto/Documents/cSharpProjects/cSharpBasico/terminalCalculator/obj/Debug/net6.0/ref/terminalCalculator.dll
